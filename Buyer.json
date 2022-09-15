@@ -1,0 +1,29 @@
+[
+    {
+        "id": "1",
+        "name": "John",
+        "email": "John@mail.com",
+        "phone": "1234567890",
+        "Server Name": "Server1",
+        "price": "1000",
+        "tanggal": "2019-01-01"
+    },
+    {
+        "id": "2",
+        "name": "John",
+        "email": "John@mail.com",
+        "phone": "1234567890",
+        "Server Name": "Server1",
+        "price": "1000",
+        "tanggal": "2019-01-01"
+    },
+    {
+        "id": "3",
+        "name": "John",
+        "email": "John@mail.com",
+        "phone": "1234567890",
+        "Server Name": "Server1",
+        "price": "1000",
+        "tanggal": "2019-01-01"
+    }
+]
