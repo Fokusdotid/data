@@ -1,29 +1,56 @@
 [
     {
-        "id": "1",
-        "name": "John",
-        "email": "John@mail.com",
-        "phone": "1234567890",
-        "Server Name": "Server1",
-        "price": "1000",
-        "tanggal": "2019-01-01"
-    },
-    {
-        "id": "2",
-        "name": "John",
-        "email": "John@mail.com",
-        "phone": "1234567890",
-        "Server Name": "Server1",
-        "price": "1000",
-        "tanggal": "2019-01-01"
-    },
-    {
         "id": "3",
-        "name": "John",
-        "email": "John@mail.com",
-        "phone": "1234567890",
-        "Server Name": "Server1",
-        "price": "1000",
-        "tanggal": "2019-01-01"
+        "name": "aine",
+        "email": "partnerme99@gmail.com",
+        "phone": "8801645461453",
+        "Server Name": "Js Aine",
+        "price": "36.000",
+        "tanggal": "5/9/22 - 6/10/22"
+    },
+    {
+        "id": "5",
+        "name": "vinz",
+        "email": "alvinstn15@gmail.com",
+        "phone": "",
+        "Server Name": "Js Vinz",
+        "price": "36.000",
+        "tanggal": "2/9/22 - 3/10/22"
+    },
+    {
+        "id": "6",
+        "name": "clara",
+        "email": "ndaatzy123@gmail.com",
+        "phone": "6288239928939",
+        "Server Name": "Js Clara",
+        "price": "18.000",
+        "tanggal": "27/8/22 - 27/10/22"
+    },
+    {
+        "id": "7",
+        "name": "clara",
+        "email": "ndaatzy123@gmail.com",
+        "phone": "6288239928939",
+        "Server Name": "Js Clara 2",
+        "price": "12.000",
+        "tanggal": "30/9/22 - 1/10/22"
+    },
+    {
+        "id": "8",
+        "name": "ahmad",
+        "email": "khime491@gmail.com",
+        "phone": "",
+        "Server Name": "Js Ahmad",
+        "price": "24.000",
+        "tanggal": "17/8/22 - 17/11/22"
+    },
+    {
+        "id": "9",
+        "name": "amd",
+        "email": "amdtopup@gmail.com",
+        "phone": "6281370101295",
+        "Server Name": "Js Amd",
+        "price": "24.000",
+        "tanggal": "25/8/22 - 25/10/22"
     }
 ]
