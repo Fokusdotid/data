@@ -52,5 +52,14 @@
         "Server Name": "Js Amd",
         "price": "24.000",
         "tanggal": "25/8/22 - 25/10/22"
+    },
+    {
+        "id": "10",
+        "name": "lehoy",
+        "email": "syafrudinahahmad13@gmail.com",
+        "phone": "6282192838943",
+        "Server Name": "Js Lehoy",
+        "price": "18.000",
+        "tanggal": "13/9/22 - 14/10/22"
     }
 ]
