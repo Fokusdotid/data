@@ -56,10 +56,64 @@
     {
         "id": "10",
         "name": "lehoy",
-        "email": "syafrudinahahmad13@gmail.com",
+        "email": "syafrudinahmad13@gmail.com",
         "phone": "6282192838943",
         "Server Name": "Js Lehoy",
         "price": "18.000",
         "tanggal": "13/9/22 - 14/10/22"
+    },
+    {
+        "id": "11",
+        "name": "rangga",
+        "email": "cs.renggahosting@gmail.com",
+        "phone": "",
+        "Server Name": "Js Rangga",
+        "price": "24.000",
+        "tanggal": "9/9/22 - 9/10/22"
+    },
+    {
+        "id": "12",
+        "name": "yuki",
+        "email": "mentaripagimau@gmail.com",
+        "phone": "",
+        "Server Name": "Js Yuki",
+        "price": "18.000",
+        "tanggal": "12/9/22 - 12/10/22"
+    },
+    {
+        "id": "13",
+        "name": "rie",
+        "email": "arpumautama@gmail.com",
+        "phone": "",
+        "Server Name": "Js Rie",
+        "price": "24.000",
+        "tanggal": "8/9/22 - 8/10/22"
+    },
+    {
+        "id": "14",
+        "name": "xynos",
+        "email": "xynosbotz@gmail.com",
+        "phone": "6283839200413",
+        "Server Name": "Js Xynos",
+        "price": "24.000",
+        "tanggal": "12/9/22 - 12/10/22"
+    },
+    {
+        "id": "15",
+        "name": "xynos",
+        "email": "xynosbotz@gmail.com",
+        "phone": "6283839200413",
+        "Server Name": "Js Xynos 2",
+        "price": "12.000",
+        "tanggal": "23/8/22 - 23/9/22"
+    },
+    {
+        "id": "16",
+        "name": "fangz",
+        "email": "darmapryanda1@gmail.com",
+        "phone": "6288215689772",
+        "Server Name": "Js Fangz",
+        "price": "36.000",
+        "tanggal": "7/9/22 - 7/10/22"
     }
 ]
