@@ -115,5 +115,14 @@
         "Server Name": "Js Fangz",
         "price": "36.000",
         "tanggal": "7/9/22 - 7/10/22"
-    }
+    },
+    {
+        "id": "17",
+        "name": "rafli",
+        "email": "mraflisetiawan075@gmail.com.com",
+        "phone": "6283854551575",
+        "Server Name": "Js Rafli",
+        "price": "12.000",
+        "tanggal": "9/9/22 - 9/10/22"
+    },
 ]
